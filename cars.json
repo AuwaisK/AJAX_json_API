@@ -1,25 +1,25 @@
 [
-	
+
 	{
-	
-		Make: "Ferrari", 
-		model: "458 italia", 
-		price: "madness"
-		
+
+		"make": "Ferrari",
+		"model": "458 italia",
+		"price": "madness"
+
 	},
-	
+
 	{
-		Make: "Lamborginhi", 
-		model: "Gallardo", 
-		price: "stillAmadness"
-		
-	}, 
-	
+		"make": "Lamborginhi",
+		"model": "Gallardo",
+		"price": "stillAmadness"
+
+	},
+
 	{
-		Make: "NISSAN", 
-		model: "GTR", 
-		price: "maybe one day"
-		
+		"make": "NISSAN",
+		"model": "GTR",
+		"price": "maybe one day"
+
 	}
-		
+
 ]
